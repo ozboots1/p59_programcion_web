@@ -1,0 +1,51 @@
+<!DOTYPE html>
+<html>
+    <head>
+        <title>Oswaldo Zavala </title>
+    </head>
+    <body>
+        <fieldset>
+            <legend>Contact</legend>
+         <p>
+            <label>Nombre:</label>
+            <input type="text" value=""/>
+         </p>
+         <p>
+            <label>Apellido: </label>
+            <input type="text" value=""/>
+         </p>
+
+         <p>
+            <label>Pais: </label>
+            <input type="" value=""/>
+         </p>
+         <p>
+            <label>Pais: </label>
+            <input type="" value=""/>
+         </p>
+
+         <p>
+            <label>Ciudad: </label>
+            <input type="" value=""/>
+         </p>
+
+         <p>
+            <label>Feha Nac: </label>
+            <input type="" value=""/>
+         </p>
+
+         <p>
+            <label>Pais: </label>
+            <input type="" value=""/>
+         </p>
+
+          <p>
+            ><button>Guardar</button>
+          </p>
+         <p>
+            ><button>Cancelar</button>
+         </p>
+        </fieldset>
+    </body>
+
+</html>
